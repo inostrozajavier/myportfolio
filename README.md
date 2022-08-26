@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Inostroza</h1>
 <h3 align="center">A passionate web developer from Argentina</h3>
 
-- 🔭 I’mfinished [My Portfolio](https://inostrozajavier.com/)
+- 🔭 I’m finished [My Portfolio](https://inostrozajavier.com/)
 
 - 🌱 I’m currently learning **Angular and React**
 
